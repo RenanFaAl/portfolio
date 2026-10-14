@@ -26,7 +26,15 @@ function PetShop() {
           rel="noreferrer"
           className="primary-button"
         >
-          Ver código no GitHub →
+          Ver código Frontend no GitHub →
+        </a>
+        <a
+          href="https://github.com/GuilhermeRocha0/petshop_api"
+          target="_blank"
+          rel="noreferrer"
+          className="primary-button"
+        >
+          Ver código Backend no GitHub →
         </a>
       </div>
 
@@ -73,9 +81,60 @@ function PetShop() {
 
           <div className="screenshots">
             <img
-              src="/public/images/petshop.png"
+              src="/images/petshop.png"
               alt="PetShop em funcionamento"
             />
+            <br></br>
+            <img
+              src="/images/petshop1.png"
+              alt="PetShop em funcionamento"
+            />
+            <br></br>
+            <img
+              src="/images/petshop2.png"
+              alt="PetShop em funcionamento"
+            />
+            <br></br>
+            <img
+              src="/images/petshop3.png"
+              alt="PetShop em funcionamento"
+            />
+            <br></br>
+            <img
+              src="/images/petshop4.png"
+              alt="PetShop em funcionamento"
+            />
+            <br></br>
+            <img
+              src="/images/petshop5.png"
+              alt="PetShop em funcionamento"
+            />
+            <br></br>
+            <img
+              src="/images/petshop6.png"
+              alt="PetShop em funcionamento"
+            />
+            <br></br>
+            <img
+              src="/images/petshop7.png"
+              alt="PetShop em funcionamento"
+            />
+            <br></br>
+            <img
+              src="/images/petshop8.png"
+              alt="PetShop em funcionamento"
+            />
+            <br></br>
+            <img
+              src="/images/petshop9.png"
+              alt="PetShop em funcionamento"
+            />
+            <br></br>
+            <img
+              src="/images/petshop10.png"
+              alt="PetShop em funcionamento"
+            />
+            <br></br>
           </div>
         </section>
       </div>

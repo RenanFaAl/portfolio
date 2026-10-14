@@ -28,7 +28,23 @@ function LifePlus() {
           rel="noreferrer"
           className="primary-button"
         >
-          Ver código no GitHub →
+          Ver código do Mobile no GitHub →
+        </a>
+        <a
+          href="https://github.com/GuilhermeRocha0/life-plus-api"
+          target="_blank"
+          rel="noreferrer"
+          className="primary-button"
+        >
+          Ver código do Backend no GitHub →
+        </a>
+        <a
+          href="https://github.com/GuilhermeRocha0/life-plus-web"
+          target="_blank"
+          rel="noreferrer"
+          className="primary-button"
+        >
+          Ver código do Frontend Web no GitHub →
         </a>
       </div>
 
