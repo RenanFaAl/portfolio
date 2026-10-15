@@ -9,9 +9,7 @@ function Home() {
           <span className="hero-tag">DESENVOLVEDOR DE SOFTWARE</span>
 
           <h1>
-            Olá, eu sou
-            <br />
-            <span>Renan Fabiani.</span>
+            <span>Renan Fabiani</span>
           </h1>
 
           <p>

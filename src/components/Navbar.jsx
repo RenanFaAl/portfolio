@@ -4,9 +4,14 @@ function Navbar() {
   return (
     <header className="navbar">
       <div className="nav-container">
-        <Link to="/" className="logo">
-          RF<span>.</span>
-        </Link>
+        <div className="nav-brand">
+          <img
+            src="/images/foto.png"
+            alt="Foto de perfil de Renan"
+            className="profile-photo"
+            Link to="/"
+          />
+        </div>
 
         <nav>
           <Link to="/">Início</Link>
@@ -15,7 +20,7 @@ function Navbar() {
         </nav>
 
         <a
-          href="https://github.com/"
+          href="https://github.com/RenanFaAl"
           target="_blank"
           rel="noreferrer"
           className="github-button"

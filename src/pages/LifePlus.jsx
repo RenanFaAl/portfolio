@@ -16,6 +16,7 @@ function LifePlus() {
 
         <div className="technologies large">
           <span>React Native</span>
+          <span>React</span>
           <span>Node.js</span>
           <span>Express</span>
           <span>PostgreSQL</span>
@@ -65,6 +66,7 @@ function LifePlus() {
 
           <ul className="tech-list">
             <li>React Native para o aplicativo mobile</li>
+            <li>React para o frontend web</li>
             <li>Node.js para o backend</li>
             <li>Express para criação das rotas da API</li>
             <li>PostgreSQL para armazenamento dos dados</li>
@@ -90,7 +92,7 @@ function LifePlus() {
         </section>
 
         <section>
-          <h2>Projeto em funcionamento</h2>
+          <h2>Projeto Web em funcionamento</h2>
 
           <div className="screenshots">
             <img
@@ -98,6 +100,234 @@ function LifePlus() {
               alt="Life+ em funcionamento"
             />
           </div>
+          <br></br>
+          <div className="screenshots">
+            <img
+              src="/images/lifeplusW2.png"
+              alt="Life+ em funcionamento"
+            />
+          </div>
+          <br></br>
+          <div className="screenshots">
+            <img
+              src="/images/lifeplusW3.png"
+              alt="Life+ em funcionamento"
+            />
+          </div>
+          <br></br>
+          <div className="screenshots">
+            <img
+              src="/images/lifeplusW4.png"
+              alt="Life+ em funcionamento"
+            />
+          </div>
+          <br></br>
+          <div className="screenshots">
+            <img
+              src="/images/lifeplusW5.png"
+              alt="Life+ em funcionamento"
+            />
+          </div>
+          <br></br>
+          <div className="screenshots">
+            <img
+              src="/images/lifeplusW6.png"
+              alt="Life+ em funcionamento"
+            />
+          </div>
+          <br></br>
+          <div className="screenshots">
+            <img
+              src="/images/lifeplusW7.png"
+              alt="Life+ em funcionamento"
+            />
+          </div>
+          <br></br>
+          <div className="screenshots">
+            <img
+              src="/images/lifeplusW8.png"
+              alt="Life+ em funcionamento"
+            />
+          </div>
+          <br></br>
+          <div className="screenshots">
+            <img
+              src="/images/lifeplusW9.png"
+              alt="Life+ em funcionamento"
+            />
+          </div>
+          <br></br>
+          <div className="screenshots">
+            <img
+              src="/images/lifeplusW10.png"
+              alt="Life+ em funcionamento"
+            />
+          </div>
+          <br></br>
+          <div className="screenshots">
+            <img
+              src="/images/lifeplusW11.png"
+              alt="Life+ em funcionamento"
+            />
+          </div>
+          <br></br>
+          <div className="screenshots">
+            <img
+              src="/images/lifeplusW12.png"
+              alt="Life+ em funcionamento"
+            />
+          </div>
+          <br></br>
+          <div className="screenshots">
+            <img
+              src="/images/lifeplusW13.png"
+              alt="Life+ em funcionamento"
+            />
+          </div>
+          <br></br>
+          <div className="screenshots">
+            <img
+              src="/images/lifeplusW14.png"
+              alt="Life+ em funcionamento"
+            />
+          </div>
+          <br></br>
+          
+          
+        </section>
+
+
+        <section>
+          <h2>Projeto Mobile em funcionamento</h2>
+
+          <div className="screenshots">
+            <img
+              src="/images/lifeMob1.png"
+              alt="Life+ em funcionamento"
+            />
+          </div>
+          <br></br>
+          <div className="screenshots">
+            <img
+              src="/images/lifeMob2.png"
+              alt="Life+ em funcionamento"
+            />
+          </div>
+          <br></br>
+          <div className="screenshots">
+            <img
+              src="/images/lifeMob3.png"
+              alt="Life+ em funcionamento"
+            />
+          </div>
+          <br></br>
+          <div className="screenshots">
+            <img
+              src="/images/lifeMob4.png"
+              alt="Life+ em funcionamento"
+            />
+          </div>
+          <br></br>
+          <div className="screenshots">
+            <img
+              src="/images/lifeMob5.png"
+              alt="Life+ em funcionamento"
+            />
+          </div>
+          <br></br>
+          <div className="screenshots">
+            <img
+              src="/images/lifeMob6.png"
+              alt="Life+ em funcionamento"
+            />
+          </div>
+          <br></br>
+          <div className="screenshots">
+            <img
+              src="/images/lifeMob7.png"
+              alt="Life+ em funcionamento"
+            />
+          </div>
+          <br></br>
+          <div className="screenshots">
+            <img
+              src="/images/lifeMob8.png"
+              alt="Life+ em funcionamento"
+            />
+          </div>
+          <br></br>
+          <div className="screenshots">
+            <img
+              src="/images/lifeMob9.png"
+              alt="Life+ em funcionamento"
+            />
+          </div>
+          <br></br>
+          <div className="screenshots">
+            <img
+              src="/images/lifeMob10.png"
+              alt="Life+ em funcionamento"
+            />
+          </div>
+          <br></br>
+          <div className="screenshots">
+            <img
+              src="/images/lifeMob11.png"
+              alt="Life+ em funcionamento"
+            />
+          </div>
+          <br></br>
+          <div className="screenshots">
+            <img
+              src="/images/lifeMob12.png"
+              alt="Life+ em funcionamento"
+            />
+          </div>
+          <br></br>
+          <div className="screenshots">
+            <img
+              src="/images/lifeMob13.png"
+              alt="Life+ em funcionamento"
+            />
+          </div>
+          <br></br>
+          <div className="screenshots">
+            <img
+              src="/images/lifeMob14.png"
+              alt="Life+ em funcionamento"
+            />
+          </div>
+          <br></br>
+          <div className="screenshots">
+            <img
+              src="/images/lifeMob15.png"
+              alt="Life+ em funcionamento"
+            />
+          </div>
+          <br></br>
+          <div className="screenshots">
+            <img
+              src="/images/lifeMob16.png"
+              alt="Life+ em funcionamento"
+            />
+          </div>
+          <br></br>
+          <div className="screenshots">
+            <img
+              src="/images/lifeMob17.png"
+              alt="Life+ em funcionamento"
+            />
+          </div>
+          <br></br>
+          <div className="screenshots">
+            <img
+              src="/images/lifeMob18.png"
+              alt="Life+ em funcionamento"
+            />
+          </div>
+          <br></br>
+          
+          
         </section>
       </div>
 

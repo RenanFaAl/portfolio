@@ -47,6 +47,32 @@ a {
   justify-content: space-between;
 }
 
+/* Logo e foto de perfil */
+.nav-brand {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.profile-photo {
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 2px solid var(--primary);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.profile-photo:hover {
+  transform: scale(1.1);
+  box-shadow: 0 0 15px rgba(124, 92, 255, 0.45);
+}
+
+.logo {
+  font-size: 28px;
+  font-weight: 800;
+}
+
 .logo {
   font-size: 28px;
   font-weight: 800;
@@ -111,7 +137,7 @@ nav a:hover {
 }
 
 .hero h1 span {
-  color: var(--primary);
+  color: var(--text);
 }
 
 .hero p {

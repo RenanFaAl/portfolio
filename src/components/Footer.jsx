@@ -2,7 +2,12 @@ function Footer() {
   return (
     <footer style={{ textAlign: "center", padding: "1rem", display: "flex", flexDirection: "column", alignItems: "center" }}>
       <div>
-        <strong>RF<span>.</span></strong>
+        <img
+            src="/images/foto.png"
+            alt="Foto de perfil de Renan"
+            className="profile-photo"
+            Link to="/"
+          />
         <p>Portfólio pessoal — Desenvolvimento de Software</p>
       </div>
     
