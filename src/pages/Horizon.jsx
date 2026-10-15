@@ -64,47 +64,47 @@ function LifePlus() {
 
           <div className="screenshots">
             <img
-              src="/public/images/horizon.jpeg"
+              src="/images/horizon.png"
               alt="Horizon em funcionamento"
             />
             <br></br>            
             <img
-              src="/public/images/horizon2.jpeg"
+              src="/images/horizon2.png"
               alt="Horizon em funcionamento"
             />
             <br></br> 
             <img
-              src="/public/images/horizon3.jpeg"
+              src="/images/horizon3.png"
               alt="Horizon em funcionamento"
             />
             <br></br> 
             <img
-              src="/public/images/horizon4.jpeg"
+              src="/images/horizon4.png"
               alt="Horizon em funcionamento"
             />
             <br></br> 
             <img
-              src="/public/images/horizon5.jpeg"
+              src="/images/horizon5.png"
               alt="Horizon em funcionamento"
             />
             <br></br> 
             <img
-              src="/public/images/horizon6.jpeg"
+              src="/images/horizon6.png"
               alt="Horizon em funcionamento"
             />
             <br></br> 
             <img
-              src="/public/images/horizon7.jpeg"
+              src="/images/horizon7.png"
               alt="Horizon em funcionamento"
             />
             <br></br> 
             <img
-              src="/public/images/horizon8.jpeg"
+              src="/images/horizon8.png"
               alt="Horizon em funcionamento"
             />
             <br></br> 
             <img
-              src="/public/images/horizon9.jpeg"
+              src="/images/horizon9.png"
               alt="Horizon em funcionamento"
             />
             <br></br> 
