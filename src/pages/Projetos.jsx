@@ -50,7 +50,7 @@ function Projetos() {
             "PostgreSQL",
             "Prisma",
           ]}
-          image="/public/images/horizon.jpeg"
+          image="/public/images/horizon.png"
           link="/projetos/horizon"
         />
       </div>
